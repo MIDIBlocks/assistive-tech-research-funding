@@ -1,4 +1,4 @@
-![](assets/cover.png?v4)
+![](assets/cover.jpg)
 
 > **"Assistive Technology is the surest path towards developing real-life super abilities"**<br>
 > \- [Oz Ramos](https://github.com/midiblocks)
