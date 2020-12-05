@@ -49,11 +49,15 @@ This repository is here to:
 
 # Grants
 
-> 
+## General Grants
 
-- 
--
--
+- (US) [Grants.gov](https://www.grants.gov/) - Grant search engine with grant writing tips and other resources. [Twitter @grantsdotgov](https://twitter.com/grantsdotgov)
+- Don't forget to also check for local city or state/province level grants as well!
+
+## Specific to Assistive Tech
+
+- (Global) [TREAT Pilot Projects](https://www.treatcenter.org/grant-opportunities/) - $5k - $25k - TREAT offers Pilot Project grants to support the development and commercialization of novel rehabilitation and assistive technology ideas
+- (US) [US Ignite](https://www.us-ignite.org/tools/fundings/) - A curation from Grants.gov for specifically for smart cities with many focused on accessibility
 
 <br>
 <br>
