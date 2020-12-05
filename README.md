@@ -31,9 +31,12 @@ This repository is here to:
 
 # Contents
 
+### Started
 - [Grants](/#grants)
-- [Residencies](/#residencies)
 - [Hackathons](/#hackathons)
+
+### Todo
+- [Residencies](/#residencies)
 - [Internships](/#internships)
 - [Angels and Benefactors](/#angels-and-benefactors)
 - [Incubators and Accelerators](/#incubators-and-accelerators)
@@ -57,6 +60,7 @@ This repository is here to:
 ## Specific to Assistive Tech
 
 - (Global) [TREAT Pilot Projects](https://www.treatcenter.org/grant-opportunities/) - $5k - $25k - TREAT offers Pilot Project grants to support the development and commercialization of novel rehabilitation and assistive technology ideas
+- (Global) [Administration for Community Living](https://acl.gov/grants) - ACL awards more than $1B in grants to states and organizations that provide services and supports for older adults and people with disabilities, conduct research, and develop innovative approaches to doing both.
 - (US) [US Ignite](https://www.us-ignite.org/tools/fundings/) - A curation from Grants.gov for specifically for smart cities with many focused on accessibility
 
 <br>
@@ -67,12 +71,9 @@ This repository is here to:
 <br>
 <br>
 
-# Residencies
-> 
+# Hackathons
 
--
--
--
+- [DevPost](https://devpost.com/hackathons) - A search engine for Hackathons around the world, many with a focus on accessibility, assistive tech, inclusivity, and social justice 
 
 <br>
 <br>
@@ -82,7 +83,7 @@ This repository is here to:
 <br>
 <br>
 
-# Hackathons
+# Residencies
 > 
 
 -
