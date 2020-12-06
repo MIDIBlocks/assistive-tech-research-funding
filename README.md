@@ -1,8 +1,5 @@
 ![](assets/cover.jpg)
 
-> **"Assistive Technology is the surest path towards developing real-life super abilities"**<br>
-> \- [Oz Ramos](https://github.com/midiblocks)
-
 There is a crazy amount of funding opportunities in tech, from grants and residencies to speaking opportunities and angel investments, incubators, and accelerators. Accessing these funds can be challenging however, especially if you're not even aware of what's available.
 
 This repository is here to:
