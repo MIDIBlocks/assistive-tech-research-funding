@@ -83,7 +83,7 @@ This repository is here to:
 # Residencies
 > 
 
--
+- [Alliance of Artists Communities](https://www.artistcommunities.org/residencies/directory) - Two weeks in the south of France to edit a book of poetry. Three months in a mill building in Massachusetts to work on a film. A year in the mountains to sculpt. A semester in Taiwan to compose. With 100s of residency programs worldwide, the choice is up to you.
 -
 -
 
@@ -127,20 +127,6 @@ This repository is here to:
 
 # Incubators and Accelerators
 > 
-
--
--
--
-
-<br>
-<br>
-<br>
-<hr>
-<br>
-<br>
-<br>
-
-# Success Stories
 
 -
 -
