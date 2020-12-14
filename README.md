@@ -54,6 +54,11 @@ This repository is here to:
 - (US) [Grants.gov](https://www.grants.gov/) - Grant search engine with grant writing tips and other resources. [Twitter @grantsdotgov](https://twitter.com/grantsdotgov)
 - Don't forget to also check for local city or state/province level grants as well!
 
+## Arts
+
+- [Creative Capital](https://creative-capital.org/)
+- [National Endowment for the Arts](https://www.arts.gov/grants)
+
 ## Specific to Assistive Tech
 
 - (Global) [TREAT Pilot Projects](https://www.treatcenter.org/grant-opportunities/) - $5k - $25k - TREAT offers Pilot Project grants to support the development and commercialization of novel rehabilitation and assistive technology ideas
@@ -83,9 +88,9 @@ This repository is here to:
 # Residencies
 > 
 
-- [Alliance of Artists Communities](https://www.artistcommunities.org/residencies/directory) - Two weeks in the south of France to edit a book of poetry. Three months in a mill building in Massachusetts to work on a film. A year in the mountains to sculpt. A semester in Taiwan to compose. With 100s of residency programs worldwide, the choice is up to you.
--
--
+- [Alliance of Artists Communities](https://www.artistcommunities.org/residencies/directory) - Directory of artist residencies
+- [Artsparkr](https://artsparkr.com/) - Directory of artist residencies
+- [DutchCulture | TransArtists](https://www.transartists.org/map) - Directory of new media arts residencies
 
 <br>
 <br>
